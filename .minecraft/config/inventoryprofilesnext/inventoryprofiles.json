@@ -1,0 +1,16 @@
+{
+    "ModSettings": {
+        "highlight_foused_items": {
+            "value": false
+        },
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": {
+            "value": false
+        },
+        "enable_inventory_buttons": {
+            "value": false
+        }
+    }
+}

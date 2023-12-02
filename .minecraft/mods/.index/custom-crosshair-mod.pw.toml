@@ -1,0 +1,14 @@
+name = "Custom Crosshair Mod"
+filename = "custom-crosshair-mod-v1.5.4-forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/o1tyE5vJ/versions/dbp2toEP/custom-crosshair-mod-v1.5.4-forge-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "753fbb4878229dbfab15de33c68b46c1f2765c2b2a0c443b990f99b4cdf40c74a914052d8bc1e25dfa097f6f73f52b2b128d2256845562957d604bfd23918e74"
+
+[update]
+[update.modrinth]
+mod-id = "o1tyE5vJ"
+version = "dbp2toEP"
